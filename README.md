@@ -155,7 +155,7 @@ Make sure the following are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Lavakumar1807/BloodNet.git
+git clone https://github.com/Manoj-92/BLOODNET.git
 cd BloodNet
 ```
 
